@@ -23,3 +23,10 @@
     border: 1px solid #006CFA;
 }
 
+.center {
+    align-self: center;
+}
+
+.bottom {
+    align-self: flex-end;
+}
