@@ -1,9 +1,14 @@
 [class*="col-"] {
-    background-color: blue;
+    background-color: #006CFA;
     height: 50px;
     text-align: center;
     line-height: 50px;
     color: white;
     border: 1px solid white;
+}
+
+[class*="col-"]>.row>[class*="col-"] {
+    background-color: #00E265;
+    border: 1 px transparent;
 }
 
