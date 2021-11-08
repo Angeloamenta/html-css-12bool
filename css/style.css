@@ -30,3 +30,11 @@
 .bottom {
     align-self: flex-end;
 }
+
+.around {
+    justify-content: space-around;
+}
+
+.between {
+    justify-content: space-between;
+}
